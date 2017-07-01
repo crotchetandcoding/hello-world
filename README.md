@@ -1,2 +1,3 @@
 # hello-world
-A repository of repositories
+Hi, Jacqueline here. I am learning how to use Github for the Techladies bootcamp. 
+Pray for me.
